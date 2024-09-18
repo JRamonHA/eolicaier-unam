@@ -1,0 +1,26 @@
+---
+title: "Grupo energía Eólica"
+image: IERBlanco.png
+about:
+  template: trestles
+  image-shape: round
+  image-width: 23em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/osvaldo-rodriguez-395a5874/
+echo: false
+jupyter: python3
+---
+
+
+### Intereses
+
+Evaluación del recurso eólico en aplicaciones de baja y gran potencia | Estudios de factibilidad tecno-económica | Modelos meteorológicos en análisis eólico | Estudios locales, regionales y Nacionales del recurso | Complementariedad de sistemas de generación variable
+
+### Semblanza
+Investigador de tiempo completo del Instituto de Energías Renovables en el Grupo de Energía Eólica. Es miembro del Sistema Nacional de Investigadores Nivel 1. Ha participado como expositor en congresos nacionales e internacionales y ha sido ganador en certámenes nacionales de ahorro de energía y sustentabilidad. Actualmente cuenta con colaboraciones con la Universidad Tecnológica de Delft en Países Bajos y la Universidad de Reading en Reino Unido, es responsable del Laboratorio de Sistemas Eólicos del IER y Responsable Técnico del proyecto 272063 del Fondo de Sustentabilidad Energética SENER-CONACyT cuya finalidad es contribuir en la formación de recursos humanos altamente especializados en investigación en Energía Eólica. Actualmente representa a los y las investigadoras del Instituto ante el H. Consejo Universitario de la UNAM.
+
+### Educación
+
+Físico |  Universidad Nacional Autónoma de México
+Dr. en Ingeniería en Energía  | Universidad Nacional Autónoma de México
