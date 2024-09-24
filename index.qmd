@@ -2,7 +2,7 @@
 title: "Grupo Energía Eólica"
 image: IERBlanco.png
 about:
-  template: trestles
+  template: jolla
   image-shape: round
   image-width: 23em
   
