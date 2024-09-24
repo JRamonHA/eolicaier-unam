@@ -2,7 +2,6 @@
 title: "Servicios y Cursos"
 echo: false
 section-divs: false
-keep-md: true
 format: html
 ---
 
