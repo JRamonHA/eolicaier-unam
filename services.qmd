@@ -12,6 +12,11 @@ summary {
   font-size: 1.2em;  /* Ajusta el tamaño del texto si es necesario */
   font-weight: bold; /* Puedes hacerlo negrita si lo prefieres */
 }
+
+/* Justificar el texto de los párrafos y títulos */
+p, h1, h2, h3, h4, h5, h6 {
+  text-align: justify;
+}
 </style>
 
 ## Talleres y Servicios

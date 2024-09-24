@@ -3,11 +3,18 @@ title: "Grupo Energía Eólica"
 image: IERBlanco.png
 about:
   template: jolla
-  image-shape: round
+  image-shape: rectangle
   image-width: 23em
   
 echo: false
 ---
+
+<style>
+/* Aplica alineación justificada al texto */
+p, h1, h2, h3, h4, h5, h6 {
+  text-align: justify;
+}
+</style>
 
 ### Acerca de
 El Grupo Energía Eólica es un grupo de reciente creación con líneas de investigación en consolidación; Está compuesto por cinco investigadores, estudiantes de pregrado y posgrado en ingeniería de energías renovables. El grupo tiene experiencia en colaboración internacional con la Universidad de Reading (un proyecto del Fondo Newton), la Universidad de Strathclyde en el Reino Unido y la DTU Delft en los Países Bajos, que aún están activas.  Las principales líneas de investigación con equipamiento e instalaciones experimentales se clasifican de la siguiente manera:
