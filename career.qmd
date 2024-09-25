@@ -68,9 +68,7 @@ El IER es sede del Posgrado en Ingeniería Campo de Conocimiento en Energía (PI
 <div class="clearfix">
   <img src="./imgs/IERBlanco.png" alt="Logo IER" class="img-left"/>
   <div class="text-container">
-
 Los campos disciplinarios en el Posgrado en Ingeniería (Energía) son: Diseño Bioclimático, Fuentes Renovables y Sistemas Energéticos con las siguientes subdisciplinas:
-
 - Diseño Bioclimático
 
   - Diseño bioclimático de edificaciones
