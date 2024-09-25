@@ -1,10 +1,7 @@
 ---
 title: "Grupo Energía Eólica"
-image: IERBlanco.png
 about:
-  template: jolla
-  image-shape: rectangle
-  image-width: 23em
+  template: marquee
   
 echo: false
 ---
@@ -17,7 +14,7 @@ p, h1, h2, h3, h4, h5, h6 {
 </style>
 
 ### Acerca de
-El Grupo Energía Eólica es un grupo de reciente creación con líneas de investigación en consolidación; Está compuesto por cinco investigadores, estudiantes de pregrado y posgrado en ingeniería de energías renovables. El grupo tiene experiencia en colaboración internacional con la Universidad de Reading (un proyecto del Fondo Newton), la Universidad de Strathclyde en el Reino Unido y la DTU Delft en los Países Bajos, que aún están activas.  Las principales líneas de investigación con equipamiento e instalaciones experimentales se clasifican de la siguiente manera:
+El Grupo Energía Eólica es un grupo de reciente creación con líneas de investigación en consolidación; Está compuesto por cinco investigadores, estudiantes de pregrado y posgrado en ingeniería de energías renovables. El grupo tiene experiencia en colaboración internacional con la Universidad de Reading (un proyecto del Fondo Newton), la Universidad de Strathclyde en el Reino Unido y la DTU Delft en los Países Bajos, que aún están activas. Las principales líneas de investigación con equipamiento e instalaciones experimentales se clasifican de la siguiente manera:
 
 
 ### Modelado de evaluación de recursos
@@ -36,5 +33,5 @@ Se aplican métodos de Inteligencia Artificial para analizar problemas relaciona
 ### Electrónica de potencia
 El modelado, análisis, diseño, simulación e implementación de dispositivos electrónicos de potencia, se aplican en el acondicionamiento energético para la integración de aerogeneradores en las redes eléctricas, generando un sistema de conversión de energía. Prototipos experimentales a baja escala validan la funcionalidad y robustez de los sistemas de conversión de energía. Se reflejan las características técnicas de los sistemas de ensayo, cuyo análisis se realiza en tiempo real utilizando el simulador de OPAL-RT Technologies®, banco de pruebas para aerogeneradores, dispositivos de electrónica de potencia y un emulador de red eléctrica. 
 
-### Integración de aerogeneradores en las redes eléctricas
-Análisis de los problemas inherentes a la integración de numerosos aerogeneradores en las redes eléctricas y gestión de su contribución (regulación de tensión y frecuencia, operación de parques eólicos, etc.) para garantizar la sostenibilidad y seguridad del suministro. Además, se abordan los desafíos técnicos asociados con la integración de la energía eólica en los sistemas de energía. Estos desafíos incluyen los efectos de la energía eólica en el sistema eléctrico, el costo operativo, la calidad de la energía y los desequilibrios de energía (estabilidad de la red). Por último, se presentan soluciones para mejorar la gestión de la generación eólica y aumentar su penetración en el conjunto de la producción eléctrica.
+### Integración de aerogeneradores en redes eléctricas
+Análisis de los problemas inherentes a la integración de numerosos aerogeneradores en redes eléctricas y gestión de su contribución (regulación de tensión y frecuencia, operación de parques eólicos, etc.) para garantizar la sostenibilidad y seguridad del suministro. Además, se abordan los desafíos técnicos asociados con la integración de la energía eólica en los sistemas de energía. Estos desafíos incluyen los efectos de la energía eólica en el sistema eléctrico, el costo operativo, la calidad de la energía y los desequilibrios de energía (estabilidad de la red). Por último, se presentan soluciones para mejorar la gestión de la generación eólica y aumentar su penetración en el conjunto de la producción eléctrica.
