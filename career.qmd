@@ -32,11 +32,35 @@ p, h1, h2, h3, h4, h5, h6 {
   display: block;
   clear: both;
 }
+
+/* Add the following styles to your existing CSS */
+
+.image-container {
+  text-align: center; /* Center the image and footer */
+}
+
+.centered-image {
+  display: block; /* Make the image a block element */
+  margin: 0 auto; /* Center the image horizontally */
+  width: 50%; /* Adjust the width as needed */
+  height: auto;
+}
+
+.footer {
+  font-size: 17px; /* Adjust the font size as needed */
+  margin-top: 12px; /* Add some space between the image and footer */
+  text-align: center; /* Center the footer text */
+}
 </style>
 
 ## Formación Académica
 ### [Licenciatura en Ingeniería en Energías Renovables](https://www.ier.unam.mx/licenciatura.html)
-La Licenciatura en Ingeniería en Energías Renovables (LIER) es una carrera multidisciplinaria que surge como respuesta a los grandes retos energéticos y la problemática ambiental mundial, que demandan profesionales que atiendan las necesidades del sector energético y el desarrollo sustentable, con responsabilidad social. Esta carrera, se realiza en colaboración con el Instituto de Ingeniería de la UNAM (II-UNAM). Tiene una duración de 4 años y su mapa curricular se ejecuta semestralmente. Y participan especialistas en las áreas de sistemas fototérmicos, sistemas fotovoltáicos, diseño de materiales, sistemas de refrigeración y bombas de calor, energía geotérmica, energía eólica, biocombustibles, celdas de combustible, energía en edificaciones, planeación energética, sustentabilidad energética e impacto ambiental. Aunado a esta infraestructura de recursos humanos, el II-UNAM dispone también de una sólida planta académica con experiencia y reconocimiento en las áreas de sistemas fototérmicos, hidráulica, energía oceánica, energía en edificaciones y biocombustibles. 
+La Licenciatura en Ingeniería en Energías Renovables (LIER) es una carrera multidisciplinaria que surge como respuesta a los grandes retos energéticos y la problemática ambiental mundial, que demandan profesionales que atiendan las necesidades del sector energético y el desarrollo sustentable, con responsabilidad social. Esta carrera, se realiza en colaboración con el Instituto de Ingeniería de la UNAM (II-UNAM). Tiene una duración de 4 años y su mapa curricular se ejecuta semestralmente. Y participan especialistas en las áreas de sistemas fototérmicos, sistemas fotovoltáicos, diseño de materiales, sistemas de refrigeración y bombas de calor, energía geotérmica, energía eólica, biocombustibles, celdas de combustible, energía en edificaciones, planeación energética, sustentabilidad energética e impacto ambiental. Aunado a esta infraestructura de recursos humanos, el II-UNAM dispone también de una sólida planta académica con experiencia y reconocimiento en las áreas de sistemas fototérmicos, hidráulica, energía oceánica, energía en edificaciones y biocombustibles.
+
+<div class="image-container">
+  <img src="./imgs/IERBlanco.png" alt="Mapa Curricular" class="centered-image">
+  <p class="footer">Mapa Curricular</p>
+</div>
 
 ### [Posgrado en Ingeniería](https://www.ier.unam.mx/Posgrado.html)
 El IER es sede del Posgrado en Ingeniería Campo de Conocimiento en Energía (PIcE), el cual, tiene como misión el Formar investigadores de excelencia, capaces de generar nuevo conocimiento y concebir estrategias técnicas y metodologías que solucionen problemas clave y prioritarios en el desarrollo del país. Este Posgrado contempla planes de estudio para Maestría y Doctorado reconocidos por el Programa Nacional de Posgrados de Calidad (PNPC) de CONACYT, contando el Programa de Maestría con la certificación de Programa Nacional Consolidado, mientras que el de Doctorado está certificado como Programa de Competencia Internacional, que es el nivel más alto de acreditación. Hoy día ofrece formación académica a 67 alumnos de Maestría y 97 de Doctorado.
