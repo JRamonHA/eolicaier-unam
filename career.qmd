@@ -10,18 +10,40 @@ format: html
 p, h1, h2, h3, h4, h5, h6 {
   text-align: justify;
 }
+
+/* Estilo para la imagen alineada a la izquierda del párrafo */
+.img-left {
+  float: left;
+  margin-right: 15px;
+  width: 300px; /* Ajusta el ancho según lo necesites */
+  height: auto;
+}
+
+/* Contenedor para el texto */
+.text-container {
+  margin-left: 315px; /* Ajusta el margen según el ancho de la imagen */
+  width: calc(100% - 315px); /* Ajusta el ancho según el margen */
+  overflow: hidden; /* Agrega este estilo para que el texto no se desborde */
+  text-align: justify; /* Agrega este estilo para justificar el texto */
+}
+
+.clearfix::after {
+  content: "";
+  display: block;
+  clear: both;
+}
 </style>
 
 ## Formación Académica
-
 ### [Licenciatura en Ingeniería en Energías Renovables](https://www.ier.unam.mx/licenciatura.html)
 La Licenciatura en Ingeniería en Energías Renovables (LIER) es una carrera multidisciplinaria que surge como respuesta a los grandes retos energéticos y la problemática ambiental mundial, que demandan profesionales que atiendan las necesidades del sector energético y el desarrollo sustentable, con responsabilidad social. Esta carrera, se realiza en colaboración con el Instituto de Ingeniería de la UNAM (II-UNAM). Tiene una duración de 4 años y su mapa curricular se ejecuta semestralmente. Y participan especialistas en las áreas de sistemas fototérmicos, sistemas fotovoltáicos, diseño de materiales, sistemas de refrigeración y bombas de calor, energía geotérmica, energía eólica, biocombustibles, celdas de combustible, energía en edificaciones, planeación energética, sustentabilidad energética e impacto ambiental. Aunado a esta infraestructura de recursos humanos, el II-UNAM dispone también de una sólida planta académica con experiencia y reconocimiento en las áreas de sistemas fototérmicos, hidráulica, energía oceánica, energía en edificaciones y biocombustibles. 
 
 ### [Posgrado en Ingeniería](https://www.ier.unam.mx/Posgrado.html)
 El IER es sede del Posgrado en Ingeniería Campo de Conocimiento en Energía (PIcE), el cual, tiene como misión el Formar investigadores de excelencia, capaces de generar nuevo conocimiento y concebir estrategias técnicas y metodologías que solucionen problemas clave y prioritarios en el desarrollo del país. Este Posgrado contempla planes de estudio para Maestría y Doctorado reconocidos por el Programa Nacional de Posgrados de Calidad (PNPC) de CONACYT, contando el Programa de Maestría con la certificación de Programa Nacional Consolidado, mientras que el de Doctorado está certificado como Programa de Competencia Internacional, que es el nivel más alto de acreditación. Hoy día ofrece formación académica a 67 alumnos de Maestría y 97 de Doctorado.
 
-#### Maestría en Ingeniería
-La Maestría en Ingeniería (Energía) (MIcE) es única en el país y tiene una orientación hacia la investigación científica y científico-práctica que permite formar profesionales de alto nivel. La Misión de la maestría es formar investigadores de calidad, capaces de generar nuevo conocimiento y concebir estrategias técnicas y metodologías que solucionen problemas clave y prioritarios en el desarrollo del país. Este programa, cuenta con un padrón de 59 tutores distribuidos en las distintas instituciones universitarias participantes del posgrado, es decir, el Instituto de Ingeniería (II UNAM), la Facultad de Ingeniería (FI UNAM) y el IER UNAM.
+<div class="clearfix">
+  <img src="./imgs/IERBlanco.png" alt="Logo IER" class="img-left"/>
+  <div class="text-container">
 
 Los campos disciplinarios en el Posgrado en Ingeniería (Energía) son: Diseño Bioclimático, Fuentes Renovables y Sistemas Energéticos con las siguientes subdisciplinas:
 
@@ -44,6 +66,11 @@ Los campos disciplinarios en el Posgrado en Ingeniería (Energía) son: Diseño 
   - Energía y medio ambiente
 
   - Procesos y uso eficiente de la energía
+    </div>
+</div>
+
+#### Maestría en Ingeniería
+La Maestría en Ingeniería (Energía) (MIcE) es única en el país y tiene una orientación hacia la investigación científica y científico-práctica que permite formar profesionales de alto nivel. La Misión de la maestría es formar investigadores de calidad, capaces de generar nuevo conocimiento y concebir estrategias técnicas y metodologías que solucionen problemas clave y prioritarios en el desarrollo del país. Este programa, cuenta con un padrón de 59 tutores distribuidos en las distintas instituciones universitarias participantes del posgrado, es decir, el Instituto de Ingeniería (II UNAM), la Facultad de Ingeniería (FI UNAM) y el IER UNAM.
 
 #### Doctorado en Ingeniería
 El Doctorado en Ingeniería (Energía) (DI cE), tiene el propósito de formar investigadores independientes con capacidad de proponer y realizar investigación (teórica y aplicada) original y de frontera. Difundir los resultados de tales investigaciones y aplicar el conocimiento generado en el desarrollo tecnológico del país. Este programa cuenta con 61 tutores de los cuales 40 pertenecen al IER UNAM y el resto a la FI UNAM y al II UNAM. Es importante mencionar que dentro del posgrado, existe experiencia con sistemas de graduación por doble titulación con Universidades Europeas.
