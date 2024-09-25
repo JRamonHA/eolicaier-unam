@@ -14,8 +14,8 @@ $gray-400: #ced4da !default;
 $gray-500: #adb5bd !default;
 $gray-600: #888 !default;
 $gray-700: #444 !default;
-$gray-800: #303030 !default;
-$gray-900: #222 !default;
+$gray-800: #344141 !default;
+$gray-900: #202123 !default;
 $black:    #000 !default;
 
 $blue:    #1D3C6D !default;
@@ -31,13 +31,13 @@ $cyan:    #3498db !default;
 
 // Body
 
-$body-bg:                   $blue !default;
+$body-bg:                   $gray-800 !default;
 $body-color:                $white !default;
 @function body-mix($weight) {
     @return mix($body-bg, $body-color, $weight);
 }
 
-$primary:       $gray-800 !default;
+$primary:       $gray-900 !default;
 $secondary:     body-mix(90%) !default;
 $success:       $green !default;
 $info:          $cyan !default;
