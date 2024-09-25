@@ -1,5 +1,5 @@
 ---
-title: "Servicios y Cursos"
+title: "Especialista en Eólica"
 echo: false
 section-divs: false
 format: html
