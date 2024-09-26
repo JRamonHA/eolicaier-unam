@@ -1,0 +1,12 @@
+{
+  "hash": "4ebd84574a3625726fd74ed7092a323f",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: Media\nimage: IERBlanco.png\nabout:\n  template: trestles\n  image-shape: round\n  image-width: 23em\n  links:\n    - text: LinkedIn\n      href: 'https://www.linkedin.com/in/osvaldo-rodriguez-395a5874/'\necho: false\n---\n\n",
+    "supporting": [
+      "media_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

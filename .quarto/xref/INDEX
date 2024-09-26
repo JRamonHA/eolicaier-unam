@@ -1,0 +1,26 @@
+{
+  "services.md": {
+    "services.html": "2cb624bd"
+  },
+  "about.qmd": {
+    "about.html": "340ec9b2"
+  },
+  "services.qmd": {
+    "services.html": "dc7302cb"
+  },
+  "research.qmd": {
+    "research.html": "65899ebb"
+  },
+  "index.qmd": {
+    "index.html": "c723b7fc"
+  },
+  "media.qmd": {
+    "media.html": "2b446281"
+  },
+  "career.qmd": {
+    "career.html": "fcbc95ee"
+  },
+  "study.qmd": {
+    "study.html": "826986ce"
+  }
+}
