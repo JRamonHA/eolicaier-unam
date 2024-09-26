@@ -8,9 +8,7 @@ format: html
 <style>
 /* Cambiar el color del texto del <summary> a negro */
 summary {
-  color: black;
   font-size: 1.2em;  /* Ajusta el tamaño del texto si es necesario */
-  font-weight: bold; /* Puedes hacerlo negrita si lo prefieres */
 }
 
 /* Justificar el texto de los párrafos y títulos */
