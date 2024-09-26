@@ -1,0 +1,26 @@
+project:
+  title: "Wind Energy Group"
+  output-dir: ./_site/en
+
+website:
+  navbar:
+    left:
+        href: research.qmd
+        text: Publications
+      - href: services.qmd        
+        text: Services and Courses
+      - href: career.qmd
+        text: Wind Power Specialist
+    right:
+      - href: ../es
+        text: Español
+      - href: ../en
+        text: English
+
+lang: en
+
+format:
+  html:
+    theme: morph
+    css: styles.css
+    toc: true

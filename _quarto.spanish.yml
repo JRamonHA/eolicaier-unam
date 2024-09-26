@@ -1,0 +1,26 @@
+project:
+  title: "Grupo Energía Eólica"
+  output-dir: ./_site/es
+
+website:
+  navbar:
+    left:
+        href: research.qmd
+        text: Publicaciones
+      - href: services.qmd        
+        text: Servicios y Cursos
+      - href: career.qmd
+        text: Especialista en Eólica
+    right:
+      - href: ../es
+        text: Español
+      - href: ../en
+        text: English
+
+lang: es
+
+format:
+  html:
+    theme: morph
+    css: styles.css
+    toc: true

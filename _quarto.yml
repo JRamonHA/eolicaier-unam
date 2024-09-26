@@ -2,17 +2,19 @@ project:
   type: website
   output-dir: docs
 
+profile:
+  default: spanish
+  group: [spanish, english]
+
 website:
   #google-analytics: "G-JMHP9PPZM4"
-  #title: "osroh - website"
+  title: "Grupo Energía Eólica"
   page-navigation: true
   navbar:
     background: primary
     logo: ./imgs/IERBlanco.png
     search: true
     left:
-      - text: "Principal"
-        file: index.qmd
       - research.qmd
       - services.qmd
       - career.qmd
