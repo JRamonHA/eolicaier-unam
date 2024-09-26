@@ -1,6 +1,6 @@
 project:
   title: "Wind Energy Group"
-  output-dir: ./_site/en
+  output-dir: docs
 
 website:
   navbar:

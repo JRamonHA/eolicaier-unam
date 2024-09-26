@@ -1,6 +1,6 @@
 project:
   title: "Grupo Energía Eólica"
-  output-dir: ./_site/es
+  output-dir: docs
 
 website:
   navbar:
