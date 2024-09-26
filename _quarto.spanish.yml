@@ -3,13 +3,11 @@ project:
   output-dir: ./_site/es
 
 website:
-  #google-analytics: "G-JMHP9PPZM4"
-  page-navigation: true
   navbar:
-    background: primary
-    logo: ./imgs/IERBlanco.png
-    search: true
     left:
+      - href: index.qmd
+        text: Principal
+      - icon: book
         href: research.qmd
         text: Publicaciones
       - href: services.qmd        
@@ -18,24 +16,16 @@ website:
         text: Especialista en Eólica
     right:
       - href: ../es
-        text: Español
+        text: Spanish
       - href: ../en
         text: English
 
 lang: es
 
-  page-footer: 
-    background: primary
-    left: "Copyright 2024, Osvaldo Rodríguez. "
-    
-   
 format:
   html:
-    toc-title: Contenido
-    toc: true
-    toc-depth: 4
     theme:
         light: ./themes/ier_claro.scss
         dark: ./themes/ier_dark.scss
     css: styles.css
-    page-layout: full
+    toc: true

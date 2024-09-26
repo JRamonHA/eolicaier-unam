@@ -3,39 +3,29 @@ project:
   output-dir: ./_site/en
 
 website:
-  #google-analytics: "G-JMHP9PPZM4"
-  page-navigation: true
   navbar:
-    background: primary
-    logo: ./imgs/IERBlanco.png
-    search: true
     left:
+      - href: index.qmd
+        text: Main
+      - icon: book
         href: research.qmd
         text: Publications
       - href: services.qmd        
         text: Services and Courses
       - href: study.qmd
-        text: Wind Power Specialist
+        text: Wind Specialist
     right:
       - href: ../es
-        text: Español
+        text: Spanish
       - href: ../en
         text: English
 
 lang: en
 
-  page-footer: 
-    background: primary
-    left: "Copyright 2024, Osvaldo Rodríguez. "
-    
-   
 format:
   html:
-    toc-title: Content
-    toc: true
-    toc-depth: 4
     theme:
         light: ./themes/ier_claro.scss
         dark: ./themes/ier_dark.scss
     css: styles.css
-    page-layout: full
+    toc: true
