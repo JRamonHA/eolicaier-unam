@@ -145,7 +145,6 @@ You can include all kinds of content, such as text, images, tables, etc.
 
 </details>
 
-### Servicios
 ### Services
 Given the wide range of wind services on the market, at IER-UNAM we offer technical consultancy on the following topics:
 

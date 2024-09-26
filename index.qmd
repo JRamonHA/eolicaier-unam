@@ -11,31 +11,10 @@ echo: false
 p, h1, h2, h3, h4, h5, h6 {
   text-align: justify;
 }
-
-/* Estilo para la imagen alineada a la izquierda del párrafo */
-.img-left {
-  float: left;
-  margin-right: 15px;
-  width: 300px; /* Ajusta el ancho según lo necesites */
-  height: auto;
-}
-
-/* Contenedor para el texto */
-.text-container {
-  margin-left: 315px; /* Ajusta el margen según el ancho de la imagen */
-  width: calc(100% - 315px); /* Ajusta el ancho según el margen */
-  overflow: hidden; /* Agrega este estilo para que el texto no se desborde */
-  text-align: justify; /* Agrega este estilo para justificar el texto */
-}
-
-.clearfix::after {
-  content: "";
-  display: block;
-  clear: both;
-}
 </style>
 
 ::: {.content-visible when-profile="spanish"}
+
 ### Acerca de
 El Grupo Energía Eólica es un grupo de reciente creación con líneas de investigación en consolidación; Está compuesto por cinco investigadores, estudiantes de pregrado y posgrado en ingeniería de energías renovables. El grupo tiene experiencia en colaboración internacional con la Universidad de Reading (un proyecto del Fondo Newton), la Universidad de Strathclyde en el Reino Unido y la DTU Delft en los Países Bajos, que aún están activas. Las principales líneas de investigación con equipamiento e instalaciones experimentales se clasifican de la siguiente manera:
 

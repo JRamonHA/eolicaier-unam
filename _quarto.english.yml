@@ -14,7 +14,7 @@ website:
         text: Publications
       - href: services.qmd        
         text: Services and Courses
-      - href: career.qmd
+      - href: study.qmd
         text: Wind Power Specialist
     right:
       - href: ../es
@@ -35,7 +35,7 @@ format:
     toc: true
     toc-depth: 4
     theme:
-        light: ier_claro.scss
-        dark: ier_dark.scss
+        light: ./themes/ier_claro.scss
+        dark: ./themes/ier_dark.scss
     css: styles.css
     page-layout: full

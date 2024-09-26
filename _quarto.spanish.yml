@@ -14,7 +14,7 @@ website:
         text: Publicaciones
       - href: services.qmd        
         text: Servicios y Cursos
-      - href: career.qmd
+      - href: study.qmd
         text: Especialista en Eólica
     right:
       - href: ../es
@@ -35,7 +35,7 @@ format:
     toc: true
     toc-depth: 4
     theme:
-        light: ier_claro.scss
-        dark: ier_dark.scss
+        light: ./themes/ier_claro.scss
+        dark: ./themes/ier_dark.scss
     css: styles.css
     page-layout: full
