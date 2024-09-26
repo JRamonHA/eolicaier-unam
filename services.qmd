@@ -6,11 +6,6 @@ format: html
 ---
 
 <style>
-/* Cambiar el color del texto del <summary> a negro */
-summary {
-  font-size: 1.2em;  /* Ajusta el tamaño del texto si es necesario */
-}
-
 /* Justificar el texto de los párrafos y títulos */
 p, h1, h2, h3, h4, h5, h6 {
   text-align: justify;
@@ -20,14 +15,14 @@ p, h1, h2, h3, h4, h5, h6 {
 ## Talleres y Servicios
 Utilizar fuentes renovables de energía ha generado la necesidad, tanto de instituciones gubernamentales como privadas, de conocer los grandes beneficios de esta tecnología, así como los conceptos técnicos básicos para determinar sus potencialidades y viabilidades. En el IER contribuimos en la formación de recursos humanos especializados en el tema y proveemos soluciones en éste sentido. En este contexto, el Grupo de Energía Eólica del Instituto de Energías Renovables de la UNAM ofrece los siguientes servicios:
 
-### Cursos en Energía eólica - Unidad de Educación Contínua
+### Cursos en Energía Eólica - Unidad de Educación Contínua
 
 <details>
-<summary>Energía eólica para todos</summary>
+<summary>Energía Eólica para todos</summary>
 
 #### Nombre del curso:
 
-Energía eólica
+Energía Eólica
 
 Responsables del curso:
 
@@ -35,17 +30,17 @@ Responsables del curso:
 
 #### Objetivo General
 
-Al termino del curso, se habrán abordado los conceptos técnicos fundamentales para relacionados con la energía eólica.
+Al termino del curso, se habrán abordado los conceptos técnicos fundamentales para relacionados con la Energía Eólica.
 
 #### Objetivos Particulares
 
-- Conocer el contexto nacional y mundial de la energía eólica.
+- Conocer el contexto nacional y mundial de la Energía Eólica.
 - Identificar la metodología y requerimientos básicos para el desarrollo de proyectos eólicos.
 - Conocer los sub-sistemas de un así como  los principios mecánicos y aerodinámicos básicos de un aerogenerador.
 - Conocer las principales estrategias de integración a la red eléctrica.
 
 #### Temario
-1. Antecedentes de la energía eólica
+1. Antecedentes de la Energía Eólica
 2. Conceptos básicos para la evaluación tecno-económica de un proyecto eólico.
 3. Principios básicos de extracción de energía del viento. 
 4. Principios técnicos básicos de los componentes mecánicos y aerodinámicos de los aerogeneradores.
