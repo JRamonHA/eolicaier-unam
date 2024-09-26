@@ -1,8 +1,9 @@
 project:
-  title: "Wind Energy Group"
+  type: website
   output-dir: docs
 
 website:
+  title: "Wind Energy Group"
   navbar:
     left:
       - href: index.qmd

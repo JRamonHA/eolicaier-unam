@@ -1,8 +1,9 @@
 project:
-  title: "Grupo Energía Eólica"
+  type: website
   output-dir: docs
 
 website:
+  title: "Grupo Energía Eólica"
   navbar:
     left:
       - href: index.qmd
