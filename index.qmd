@@ -1,11 +1,3 @@
----
-title: "Grupo Energía Eólica"
-about:
-  template: marquee
-  
-echo: false
----
-
 <style>
 /* Aplica alineación justificada al texto */
 p, h1, h2, h3, h4, h5, h6 {
