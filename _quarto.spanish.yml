@@ -24,8 +24,6 @@ lang: es
 
 format:
   html:
-    theme:
-        light: ./themes/ier_claro.scss
-        dark: ./themes/ier_dark.scss
+    theme: morph
     css: styles.css
     toc: true
