@@ -19,8 +19,18 @@ website:
 
 lang: en
 
+  page-footer: 
+    background: primary
+    left: "Copyright 2024, Osvaldo Rodríguez. "
+    
+   
 format:
   html:
-    theme: morph
-    css: styles.css
+    toc-title: Content
     toc: true
+    toc-depth: 4
+    theme:
+        light: ier_claro.scss
+        dark: ier_dark.scss
+    css: styles.css
+    page-layout: full
