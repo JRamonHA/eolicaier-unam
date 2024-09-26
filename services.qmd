@@ -12,6 +12,8 @@ p, h1, h2, h3, h4, h5, h6 {
 }
 </style>
 
+::: {.content-visible when-profile="spanish"}
+
 ## Talleres y Servicios
 Utilizar fuentes renovables de energía ha generado la necesidad, tanto de instituciones gubernamentales como privadas, de conocer los grandes beneficios de esta tecnología, así como los conceptos técnicos básicos para determinar sus potencialidades y viabilidades. En el IER contribuimos en la formación de recursos humanos especializados en el tema y proveemos soluciones en éste sentido. En este contexto, el Grupo de Energía Eólica del Instituto de Energías Renovables de la UNAM ofrece los siguientes servicios:
 
@@ -80,3 +82,79 @@ Ante la gran oferta de servicios eólicos en el mercado, en el IER-UNAM ofrecemo
 - Análisis de integración a la red eléctrica.
 - Diseño de sistemas de conversión de energía basados en electrónica de potencia, con aplicaciones específicas en fuentes renovables.
 - Consultoría en la supervisión del proyecto.
+
+:::
+
+::: {.content-visible when-profile="english"}
+
+## Workshops and Services
+Using renewable energy sources has generated the need, both for governmental and private institutions, to know the great benefits of this technology, as well as the basic technical concepts to determine its potential and viability. At the IER we contribute to the training of human resources specialized in the subject and we provide solutions in this regard. In this context, the Wind Energy Group of the UNAM Renewable Energy Institute offers the following services:
+
+### Courses in Wind Energy - Unidad de Educación Contínua
+
+<details>
+<summary>Energía Eólica para todos</summary>
+
+#### Course name:
+
+Energía Eólica
+
+Course leaders:
+
+- [PhD. Osvaldo Rodríguez Hernández](mailto:osroh@ier.unam.mx) 
+
+#### General Objective
+
+At the end of the course, the fundamental technical concepts related to Wind Energy will have been addressed.
+
+#### Specific Objectives
+
+- To understand the national and global context of Wind Energy.
+- To identify the methodology and basic requirements for the development of wind projects.
+- To understand the sub-systems as well as the basic mechanical and aerodynamic principles of a wind turbine.
+- To understand the main strategies for integration into the electrical grid.
+
+#### Syllabus
+1. Background of Wind Energy
+2. Basic concepts for the techno-economic evaluation of a wind energy project.
+3. Basic principles of wind energy extraction.
+4. Basic technical principles of the mechanical and aerodynamic components of wind turbines.
+5. Basic principles for the integration of wind systems into the grid.
+
+Who is it aimed at: Aimed at professionals, executives and decision makers interested in the fundamental technical aspects of wind energy.
+
+**Course hours:** from 20 to 40 hours.
+
+**Number of participants:** Flexible and adapted to the needs of the applicant.
+
+**Material included:** Supplementary course material.
+
+For more information, please contact the Secretaría de Educación Continua at: [uec@ier.unam.mx](mailto:uec@ier.unam.mx)
+
+At the end of the course, certificates of participation will be issued.
+
+</details>
+
+
+<details>
+<summary> Meteorological models for wind resource assessment using Python</summary>
+
+This is where text will be hidden until the user clicks on the dropdown title.
+
+You can include all kinds of content, such as text, images, tables, etc.
+
+</details>
+
+### Servicios
+### Services
+Given the wide range of wind services on the market, at IER-UNAM we offer technical consultancy on the following topics:
+
+- Technical feasibility of the site for wind power.
+- Consulting on the development of measurement campaigns.
+- Consulting on the selection of technologies for the site.
+- Comparison and evaluation of proposals.
+- Analysis of integration into the electrical grid.
+- Design of energy conversion systems based on power electronics, with specific applications in renewable sources.
+- Consulting on project supervision.
+
+:::

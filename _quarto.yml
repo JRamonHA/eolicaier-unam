@@ -5,32 +5,3 @@ project:
 profile:
   default: spanish
   group: [spanish, english]
-
-website:
-  #google-analytics: "G-JMHP9PPZM4"
-  title: "Grupo Energía Eólica"
-  page-navigation: true
-  navbar:
-    background: primary
-    logo: ./imgs/IERBlanco.png
-    search: true
-    left:
-      - research.qmd
-      - services.qmd
-      - career.qmd
-      
-  page-footer: 
-    background: primary
-    left: "Copyright 2024, Osvaldo Rodríguez. "
-    
-   
-format:
-  html:
-    toc-title: Contenido
-    toc: true
-    toc-depth: 4
-    theme:
-        light: ier_claro.scss
-        dark: ier_dark.scss
-    css: styles.css
-    page-layout: full

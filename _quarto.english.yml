@@ -3,7 +3,12 @@ project:
   output-dir: ./_site/en
 
 website:
+  #google-analytics: "G-JMHP9PPZM4"
+  page-navigation: true
   navbar:
+    background: primary
+    logo: ./imgs/IERBlanco.png
+    search: true
     left:
         href: research.qmd
         text: Publications
