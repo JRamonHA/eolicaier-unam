@@ -4,17 +4,8 @@
 ### [Licenciatura en Ingeniería en Energías Renovables](https://www.ier.unam.mx/licenciatura.html)
 La Licenciatura en Ingeniería en Energías Renovables (LIER) es una carrera multidisciplinaria que surge como respuesta a los grandes retos energéticos y la problemática ambiental mundial, que demandan profesionales que atiendan las necesidades del sector energético y el desarrollo sustentable, con responsabilidad social. Esta carrera, se realiza en colaboración con el Instituto de Ingeniería de la UNAM (II-UNAM). Tiene una duración de 4 años y su mapa curricular se ejecuta semestralmente. Y participan especialistas en las áreas de sistemas fototérmicos, sistemas fotovoltáicos, diseño de materiales, sistemas de refrigeración y bombas de calor, energía geotérmica, energía eólica, biocombustibles, celdas de combustible, energía en edificaciones, planeación energética, sustentabilidad energética e impacto ambiental. Aunado a esta infraestructura de recursos humanos, el II-UNAM dispone también de una sólida planta académica con experiencia y reconocimiento en las áreas de sistemas fototérmicos, hidráulica, energía oceánica, energía en edificaciones y biocombustibles.
 
-<div class="image-container">
-  <img src="./imgs/IERBlanco.png" alt="Mapa Curricular" class="centered-image">
-  <p class="footer">Mapa Curricular</p>
-</div>
-
 ### [Posgrado en Ingeniería](https://www.ier.unam.mx/Posgrado.html)
 El IER es sede del Posgrado en Ingeniería Campo de Conocimiento en Energía (PIcE), el cual, tiene como misión el Formar investigadores de excelencia, capaces de generar nuevo conocimiento y concebir estrategias técnicas y metodologías que solucionen problemas clave y prioritarios en el desarrollo del país. Este Posgrado contempla planes de estudio para Maestría y Doctorado reconocidos por el Programa Nacional de Posgrados de Calidad (PNPC) de CONACYT, contando el Programa de Maestría con la certificación de Programa Nacional Consolidado, mientras que el de Doctorado está certificado como Programa de Competencia Internacional, que es el nivel más alto de acreditación. Hoy día ofrece formación académica a 67 alumnos de Maestría y 97 de Doctorado.
-
-<div class="clearfix">
-  <img src="./imgs/IERBlanco.png" alt="Logo IER" class="img-left"/>
-    <div class="text-container">
 
 Los campos disciplinarios en el Posgrado en Ingeniería (Energía) son: Diseño Bioclimático, Fuentes Renovables y Sistemas Energéticos con las siguientes subdisciplinas:
 - Diseño Bioclimático
@@ -27,8 +18,6 @@ Los campos disciplinarios en el Posgrado en Ingeniería (Energía) son: Diseño 
   - Economía de la energía
   - Energía y medio ambiente
   - Procesos y uso eficiente de la energía
-    </div>
-</div>
 
 #### [Maestría en Ingeniería](https://www.posgrado.unam.mx/programa/ingenieria-maestria/)
 La Maestría en Ingeniería (Energía) (MIcE) es única en el país y tiene una orientación hacia la investigación científica y científico-práctica que permite formar profesionales de alto nivel. La Misión de la maestría es formar investigadores de calidad, capaces de generar nuevo conocimiento y concebir estrategias técnicas y metodologías que solucionen problemas clave y prioritarios en el desarrollo del país. Este programa, cuenta con un padrón de 59 tutores distribuidos en las distintas instituciones universitarias participantes del posgrado, es decir, el Instituto de Ingeniería (II UNAM), la Facultad de Ingeniería (FI UNAM) y el IER UNAM.
@@ -44,17 +33,8 @@ El Doctorado en Ingeniería (Energía) (DI cE), tiene el propósito de formar in
 ### [Bachelor of Engineering in Renewable Energy](https://www.ier.unam.mx/licenciatura.html)
 The Bachelor of Engineering in Renewable Energy (LIER) is a multidisciplinary degree that arises as a response to the great energy challenges and global environmental problems, which demand professionals who meet the needs of the energy sector and sustainable development, with social responsibility. This degree is carried out in collaboration with the UNAM Institute of Engineering (II-UNAM). It lasts 4 years and its curriculum is executed every semester. Specialists in the areas of photothermal systems, photovoltaic systems, materials design, refrigeration systems and heat pumps, geothermal energy, wind energy, biofuels, fuel cells, energy in buildings, energy planning, energy sustainability and environmental impact participate. In addition to this infrastructure of human resources, II-UNAM also has a solid academic staff with experience and recognition in the areas of photothermal systems, hydraulics, ocean energy, energy in buildings and biofuels.
 
-<div class="image-container">
-  <img src="./imgs/IERBlanco.png" alt="Mapa Curricular" class="centered-image">
-  <p class="footer">Curriculum Map</p>
-</div>
-
 ### [Postgraduate in Engineering](https://www.ier.unam.mx/Posgrado.html)
 The IER is home to the Postgraduate Program in Energy Knowledge Engineering (PIcE), whose mission is to train excellent researchers capable of generating new knowledge and conceiving technical strategies and methodologies that solve key and priority problems in the development of the country. This Postgraduate Program includes study plans for Master's and Doctorate degrees recognized by the National Program of Quality Postgraduate Studies (PNPC) of CONACYT, with the Master's Program being certified as a Consolidated National Program, while the Doctorate Program is certified as an International Competence Program, which is the highest level of accreditation. Today it offers academic training to 67 Master's students and 97 Doctorate students.
-
-<div class="clearfix">
-  <img src="./imgs/IERBlanco.png" alt="Logo IER" class="img-left"/>
-    <div class="text-container">
 
 The disciplinary fields in the Postgraduate Degree in Engineering (Energy) are: Bioclimatic Design, Renewable Sources and Energy Systems with the following subdisciplines:
 - Bioclimatic Design
@@ -67,8 +47,6 @@ The disciplinary fields in the Postgraduate Degree in Engineering (Energy) are: 
 - Energy economics
 - Energy and environment
 - Processes and efficient use of energy
-    </div>
-</div>
 
 #### [Master's Degree in Engineering](https://www.posgrado.unam.mx/programa/ingenieria-maestria/)
 The Master's Degree in Engineering (Energy) (MIcE) is unique in the country and is oriented towards scientific and scientific-practical research that allows the training of high-level professionals. The mission of the master's degree is to train quality researchers, capable of generating new knowledge and conceiving technical strategies and methodologies that solve key and priority problems in the development of the country. This program has a roster of 59 tutors distributed among the different university institutions participating in the postgraduate program, that is, the Engineering Institute (II UNAM), the Faculty of Engineering (FI UNAM) and the IER UNAM.
