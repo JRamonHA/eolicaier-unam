@@ -22,6 +22,10 @@ website:
       - text: Español
         href: ..
 
+  page-footer: 
+    background: primary
+    left: "Copyright 2024, Osvaldo Rodríguez."
+
 lang: en
 
 format:
