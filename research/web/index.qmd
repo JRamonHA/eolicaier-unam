@@ -42,7 +42,7 @@ Análisis de los problemas inherentes a la integración de numerosos aerogenerad
 ## Wind Energy Group
 
 ### About
-The Wind energy Group is a recent creation group with research lines in consolidation; it comprises five researchers, undergrad and grad students in renewable energy engineering. The group has experience in international collaboration with the University of Reading (one Newton Fund project), The University of Strathclyde in the United Kingdom, and DTU Delft in the Netherlands, which are still active. The main research lines with experimental equipment and facilities are classified as follows:
+The Wind energy Group is a recent creation group with research lines in consolidation; it comprises five researchers, undergrad and grad students in renewable energy engineering. The group has experience in international collaboration with the University of Reading (a Newton Fund project), The University of Strathclyde in the United Kingdom, and DTU Delft in the Netherlands, which are still active. The main research lines with experimental equipment and facilities are classified as follows:
 
 ### Resource assessment modeling
 
