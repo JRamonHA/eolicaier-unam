@@ -3,7 +3,7 @@ project:
   output-dir: ./_site/en
 
 website:
-  title: "Wind Energy Group"
+  title: "Wind Energy IER-UNAM"
   navbar:
     background: primary
     logo: ./imgs/IERBlanco.png
@@ -17,7 +17,7 @@ website:
       - text: Services and Courses        
         href: ../en/services.html
       - text: Wind Specialist
-        href: ../en/study.html
+        href: ../en/study-en.html
     right:
       - text: Español
         href: ..

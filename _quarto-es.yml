@@ -3,7 +3,7 @@ project:
   output-dir: ./_site
 
 website:
-  title: "Grupo Energía Eólica"
+  title: "Energía Eólica IER-UNAM"
   navbar:
     background: primary
     logo: ./imgs/IERBlanco.png
