@@ -1,0 +1,154 @@
+/* css styles */
+
+/* Estilos para la disposición del contenido */
+.contenido {
+  display: flex;
+  gap: 20px; 
+  margin-bottom: 20px; 
+}
+
+.texto {
+  flex: 1; 
+}
+
+/* Justificar texto dentro de .texto */
+.texto p {
+  text-align: justify;
+}
+
+.media {
+  width: 370px; 
+}
+
+.media img,
+.media iframe {
+  width: 100%; 
+}
+
+.media iframe {
+  height: 300px; 
+}
+
+/* Clase para centrar la imagen y mantener la relación de aspecto */
+.imagen-centrada {
+  display: block; /* Importante para que el centrado funcione */
+  margin: 0 auto; /* Centrado automático horizontal */
+  max-width: 100%; /* Asegura que la imagen no se salga del contenedor */
+  height: auto; /* Mantiene la relación de aspecto */
+}
+
+/* Estilos para tabla de mapa curricular*/
+/* Define CSS variables */
+:root {
+  --yellow: #f0d71f;
+  --light-blue: #26a7fd;
+  --dark-blue: #3b79dc;
+  --light-green: #2ad54f;
+  --light-orange: #faaa4e;
+  --box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  --transition: all 0.2s ease;
+}
+
+/* Layout and typography */
+.mapa-curricular {
+  border-collapse: separate;
+  border-spacing: 2px; 
+  width: 85%;
+  margin: 20px auto;
+  table-layout: fixed;
+  box-shadow: var(--box-shadow);
+  border-radius: 4px; /* Cambiado de 2.25px a 4px */
+  overflow: hidden;
+}
+
+.mapa-curricular td, .mapa-curricular th {
+  border: none;
+  padding: 8px;
+  text-align: center;
+  height: 35px;
+  width: 16.67%;
+  font-size: 13px;
+  font-weight: 500.25;
+  transition: var(--transition);
+  border-radius: 4px; /* Cambiado de 1.85px a 4px para coincidir con la tabla */
+}
+
+/* Hover effect */
+.mapa-curricular td:hover {
+  transform: scale(1.02);
+  box-shadow: var(--box-shadow);
+  z-index: 1;
+  cursor: pointer;
+}
+
+/* Colors */
+.mapa-curricular td {
+  background-color: #ababab;
+}
+
+.mapa-curricular tr:nth-child(1) td:nth-child(2),
+.mapa-curricular tr:nth-child(1) td:nth-child(3),
+.mapa-curricular tr:nth-child(1) td:nth-child(4),
+.mapa-curricular tr:nth-child(2) td:nth-child(2),
+.mapa-curricular tr:nth-child(2) td:nth-child(3),
+.mapa-curricular tr:nth-child(2) td:nth-child(4),
+.mapa-curricular tr:nth-child(3) td:nth-child(2),
+.mapa-curricular tr:nth-child(3) td:nth-child(3),
+.mapa-curricular tr:nth-child(3) td:nth-child(4),
+.mapa-curricular tr:nth-child(3) td:nth-child(5),
+.mapa-curricular tr:nth-child(4) td:nth-child(2) {
+  background-color: var(--yellow);
+}
+
+.mapa-curricular tr:nth-child(4) td:nth-child(3),
+.mapa-curricular tr:nth-child(4) td:nth-child(4),
+.mapa-curricular tr:nth-child(4) td:nth-child(5),
+.mapa-curricular tr:nth-child(4) td:nth-child(6),
+.mapa-curricular tr:nth-child(5) td:nth-child(2),
+.mapa-curricular tr:nth-child(5) td:nth-child(3),
+.mapa-curricular tr:nth-child(5) td:nth-child(4),
+.mapa-curricular tr:nth-child(5) td:nth-child(5),
+.mapa-curricular tr:nth-child(5) td:nth-child(6),
+.mapa-curricular tr:nth-child(6) td:nth-child(2),
+.mapa-curricular tr:nth-child(6) td:nth-child(3),
+.mapa-curricular tr:nth-child(6) td:nth-child(4),
+.mapa-curricular tr:nth-child(6) td:nth-child(5),
+.mapa-curricular tr:nth-child(6) td:nth-child(6) {
+  background-color: var(--light-blue);
+}
+
+.mapa-curricular tr:nth-child(2) td:nth-child(6),
+.mapa-curricular tr:nth-child(7) td:nth-child(3),
+.mapa-curricular tr:nth-child(7) td:nth-child(4),
+.mapa-curricular tr:nth-child(7) td:nth-child(5),
+.mapa-curricular tr:nth-child(8) td:nth-child(2),
+.mapa-curricular tr:nth-child(8) td:nth-child(3),
+.mapa-curricular tr:nth-child(8) td:nth-child(4),
+.mapa-curricular tr:nth-child(8) td:nth-child(5) {
+  background-color: var(--dark-blue);
+}
+
+.mapa-curricular tr:nth-child(1) td:nth-child(5),
+.mapa-curricular tr:nth-child(1) td:nth-child(6),
+.mapa-curricular tr:nth-child(7) td:nth-child(2),
+.mapa-curricular tr:nth-child(7) td:nth-child(6) {
+  background-color: var(--light-green);
+}
+
+.mapa-curricular tr:nth-child(2) td:nth-child(5),
+.mapa-curricular tr:nth-child(3) td:nth-child(6),
+.mapa-curricular tr:nth-child(8) td:nth-child(6) {
+  background-color: var(--light-orange);
+}
+
+/* Efecto de sombra en hover para toda la tabla */
+.mapa-curricular:hover {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Clase para el pie de figura*/
+.footer {
+  font-size: 17px; /* Adjust the font size as needed */
+  margin-top: 15px; /* Add some space between the image and footer */
+  text-align: center; /* Center the footer text */
+}
