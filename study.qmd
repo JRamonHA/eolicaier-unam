@@ -1,3 +1,10 @@
+---
+title: "Especialista en Eólica"
+echo: false
+section-divs: false
+format: html
+---
+
 ::: {.content-visible when-profile="spanish"}
 
 ## Formación Académica

@@ -1,6 +1,10 @@
 project:
   type: website
-
+  
 profile:
-  default: spanish
-  group: [spanish, english]
+  default: es
+  group: 
+    - [es, en]
+    
+execute: 
+  freeze: auto

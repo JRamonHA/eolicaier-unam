@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: ./_site/en
+
+website:
+  title: "Wind Energy Group"
+  navbar:
+    background: primary
+    logo: ./imgs/IERBlanco.png
+    search: true
+    left:
+      - text: Main
+        href: ../en/index.html
+      - icon: book
+        text: Publications
+        href: ../en/research.html
+      - text: Services and Courses        
+        href: ../en/services.html
+      - text: Wind Specialist
+        href: ../en/study.html
+    right:
+      - text: Español
+        href: ..
+
+lang: en
+
+format:
+  html:
+    toc: true
+    toc-title: Content
+    toc-depth: 4
+    theme:
+        light: ./themes/ier_claro.scss
+        dark: ./themes/ier_dark.scss
+    css: styles.css
+    page-layout: full

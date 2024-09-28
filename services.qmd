@@ -1,3 +1,10 @@
+---
+title: "Servicios y Cursos"
+echo: false
+section-divs: false
+format: html
+---
+
 ::: {.content-visible when-profile="spanish"}
 
 ## Talleres y Servicios
@@ -79,7 +86,7 @@ Using renewable energy sources has generated the need, both for governmental and
 ### Courses in Wind Energy - Unidad de Educación Contínua
 
 <details>
-<summary>Energía Eólica para todos</summary>
+<summary>Wind Energy for All</summary>
 
 #### Course name:
 

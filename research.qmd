@@ -1,3 +1,10 @@
+---
+title: "Publicaciones"
+echo: false
+section-divs: false
+format: html
+---
+
 ::: {.content-visible when-profile="spanish"}
 
 ## Investigadores

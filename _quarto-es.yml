@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: ./_site
+
+website:
+  title: "Grupo Energía Eólica"
+  navbar:
+    background: primary
+    logo: ./imgs/IERBlanco.png
+    search: true
+    left:
+      - text: Principal
+        href: ./index.qmd
+      - icon: book
+        text: Publicaciones
+        href: ./research.qmd
+      - text: Servicios y Cursos        
+        href: ./services.qmd
+      - text: Especialista en Eólica
+        href: ./study.qmd
+    right:
+      - text: English
+        href: ../en
+
+lang: es
+
+format:
+  html:
+    toc: true
+    toc-title: Contenido
+    toc-depth: 4
+    theme:
+        light: ./themes/ier_claro.scss
+        dark: ./themes/ier_dark.scss
+    css: styles.css
+    page-layout: full
