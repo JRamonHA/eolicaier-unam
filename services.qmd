@@ -1,11 +1,10 @@
 ---
-title: "Servicios y Cursos"
 echo: false
 section-divs: false
 format: html
 ---
 
-::: {.content-visible when-profile="spanish"}
+::: {.content-visible when-profile="es"}
 
 ## Talleres y Servicios
 Utilizar fuentes renovables de energía ha generado la necesidad, tanto de instituciones gubernamentales como privadas, de conocer los grandes beneficios de esta tecnología, así como los conceptos técnicos básicos para determinar sus potencialidades y viabilidades. En el IER contribuimos en la formación de recursos humanos especializados en el tema y proveemos soluciones en éste sentido. En este contexto, el Grupo de Energía Eólica del Instituto de Energías Renovables de la UNAM ofrece los siguientes servicios:
@@ -78,7 +77,7 @@ Ante la gran oferta de servicios eólicos en el mercado, en el IER-UNAM ofrecemo
 
 :::
 
-::: {.content-visible when-profile="english"}
+::: {.content-visible when-profile="en"}
 
 ## Workshops and Services
 Using renewable energy sources has generated the need, both for governmental and private institutions, to know the great benefits of this technology, as well as the basic technical concepts to determine its potential and viability. At the IER we contribute to the training of human resources specialized in the subject and we provide solutions in this regard. In this context, the Wind Energy Group of the UNAM Renewable Energy Institute offers the following services:

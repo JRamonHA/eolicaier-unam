@@ -1,11 +1,10 @@
 ---
-title: "Publicaciones"
 echo: false
 section-divs: false
 format: html
 ---
 
-::: {.content-visible when-profile="spanish"}
+::: {.content-visible when-profile="es"}
 
 ## Investigadores
 
@@ -56,7 +55,7 @@ format: html
 
 :::
 
-::: {.content-visible when-profile="english"}
+::: {.content-visible when-profile="en"}
 
 ## Researchers
 

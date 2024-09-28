@@ -1,11 +1,12 @@
 ---
-title: "Grupo Energía Eólica"
 echo: false
 section-divs: false
 format: html
 ---
 
-::: {.content-visible when-profile="spanish"}
+::: {.content-visible when-profile="es"}
+
+## Grupo Energía Eólica
 
 ### Acerca de
 El Grupo Energía Eólica es un grupo de reciente creación con líneas de investigación en consolidación; Está compuesto por cinco investigadores, estudiantes de pregrado y posgrado en ingeniería de energías renovables. El grupo tiene experiencia en colaboración internacional con la Universidad de Reading (un proyecto del Fondo Newton), la Universidad de Strathclyde en el Reino Unido y la DTU Delft en los Países Bajos, que aún están activas. Las principales líneas de investigación con equipamiento e instalaciones experimentales se clasifican de la siguiente manera:
@@ -36,7 +37,9 @@ Análisis de los problemas inherentes a la integración de numerosos aerogenerad
 
 :::
 
-::: {.content-visible when-profile="english"}
+::: {.content-visible when-profile="en"}
+
+## Wind Energy Group
 
 ### About
 The Wind energy Group is a recent creation group with research lines in consolidation; it comprises five researchers, undergrad and grad students in renewable energy engineering. The group has experience in international collaboration with the University of Reading (one Newton Fund project), The University of Strathclyde in the United Kingdom, and DTU Delft in the Netherlands, which are still active. The main research lines with experimental equipment and facilities are classified as follows:

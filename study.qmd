@@ -1,11 +1,10 @@
 ---
-title: "Especialista en Eólica"
 echo: false
 section-divs: false
 format: html
 ---
 
-::: {.content-visible when-profile="spanish"}
+::: {.content-visible when-profile="es"}
 
 ## Formación Académica
 ### [Licenciatura en Ingeniería en Energías Renovables](https://www.ier.unam.mx/licenciatura.html)
@@ -34,7 +33,7 @@ El Doctorado en Ingeniería (Energía) (DI cE), tiene el propósito de formar in
 
 :::
 
-::: {.content-visible when-profile="english"}
+::: {.content-visible when-profile="en"}
 
 ## Academic Training
 ### [Bachelor of Engineering in Renewable Energy](https://www.ier.unam.mx/licenciatura.html)
