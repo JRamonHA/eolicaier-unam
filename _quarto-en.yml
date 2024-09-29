@@ -25,6 +25,9 @@ website:
   page-footer: 
     background: primary
     left: "Copyright 2024, Osvaldo Rodríguez."
+    right: 
+      - icon: github
+        href: https://github.com/JRamonHA/eolicaier-unam
 
 lang: en
 
